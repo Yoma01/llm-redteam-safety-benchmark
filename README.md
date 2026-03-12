@@ -25,3 +25,7 @@ dashboard visualization
 
 Simple flow:
 Attack Engine → Model Harness → Response Logs → Scoring Engine → Defense Benchmark → Risk Mapper → Dashboard
+
+5. Dashboard view
+   <img width="1498" height="784" alt="image" src="https://github.com/user-attachments/assets/85e2b2d4-df8e-4d20-a3c7-5c9712238907" />
+
