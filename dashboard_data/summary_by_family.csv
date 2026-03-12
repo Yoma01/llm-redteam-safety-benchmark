@@ -1,0 +1,11 @@
+defense_name,attack_family,total_runs,avg_severity,harmful_rate,refusal_rate
+baseline,direct,4,1.25,0.5,0.25
+baseline,multi_turn,4,1.25,0.5,0.25
+baseline,obfuscated,4,0.75,0.25,0.5
+baseline,prompt_injection,4,0.75,0.25,0.5
+baseline,roleplay,4,1.25,0.5,0.25
+guardrail_strong,direct,4,0.25,0.0,0.75
+guardrail_strong,multi_turn,4,0.25,0.0,0.75
+guardrail_strong,obfuscated,4,0.25,0.0,0.75
+guardrail_strong,prompt_injection,4,0.25,0.0,0.75
+guardrail_strong,roleplay,4,0.25,0.0,0.75

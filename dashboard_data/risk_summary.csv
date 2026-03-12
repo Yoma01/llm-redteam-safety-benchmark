@@ -1,0 +1,10 @@
+defense_name,category,risk_level,count
+baseline,cyber_misuse,high,3
+baseline,cyber_misuse,low,7
+baseline,fraud_deception,high,5
+baseline,prompt_injection_leakage,low,5
+guardrail_strong,cyber_misuse,low,9
+guardrail_strong,cyber_misuse,medium,1
+guardrail_strong,fraud_deception,low,4
+guardrail_strong,fraud_deception,medium,1
+guardrail_strong,prompt_injection_leakage,low,5
